@@ -1,0 +1,29 @@
+Sample Combat:
+
+A wild Orc appears...
+>Attack 
+(Charactername) hits Orc with Rusty Knife for 8 damage (100>92)
+Orc hits (Charactername) with Halberd for 22 damage (200>178) 
+>Attack
+Your attack is parried
+You parry the Orc's attack 
+>Cast Wrath
+(Charactername) deals a critical strike
+(Charactername) hits Orc with Wrath for 46 damage (92>46)
+Orc hits (Charactername) with Halberd for 21 damage (178>157)
+>Use Healing Potion
+(Charactername) is healed for 25 points (157>182)
+Orc misses (Charactername) with Halberd
+>Attack 
+(Charactername) hits Orc with rusty knife for 10 damage (46>36) 
+Orc hits (Charactername) for 24 damage with Halberd (182>158)
+>Cast Fear
+Orc fails to resist the spell
+Orc runs away in fear...
+
+-----------------------------------------------
+Gold gained: 25		Experience Gained: 200
+Orc drops a Healing Potion.
+-----------------------------------------------
+> 
+
