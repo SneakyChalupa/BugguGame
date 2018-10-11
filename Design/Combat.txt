@@ -17,13 +17,14 @@ Orc misses (Charactername) with Halberd
 >Attack 
 (Charactername) hits Orc with rusty knife for 10 damage (46>36) 
 Orc hits (Charactername) for 24 damage with Halberd (182>158)
->Cast Fear
+>Cast Power Word Death
 Orc fails to resist the spell
-Orc runs away in fear...
+Orc is slain...
 
 -----------------------------------------------
 Gold gained: 25		Experience Gained: 200
 Orc drops a Healing Potion.
 -----------------------------------------------
-> 
+>Leave
+You return to town
 
