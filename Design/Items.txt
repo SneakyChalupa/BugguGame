@@ -1,0 +1,16 @@
+You pick up Rusty Knife
+	Damage 8-12
+	Critical Strike chance 10%
+	Durability 12/12
+	Requires Dexterity 10
+You pick up Halberd
+	Damage 20-30
+	Critical Strike chance 3%
+	Durability 30/30
+	Requires Strength 25
+You pick up Chain Shirt
+	Defense 15
+	Durability 25/25
+	Requires Strength 15
+	
+	
